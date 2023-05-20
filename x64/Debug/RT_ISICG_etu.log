@@ -1,0 +1,10 @@
+﻿  bvh.cpp
+  triangle_mesh_geometry.cpp
+C:\Users\ayoub\Desktop\ISNI\src\geometry\triangle_mesh_geometry.cpp(23,36): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  triangle_mesh.cpp
+  scene.cpp
+C:\Users\ayoub\Desktop\ISNI\src\lights\QuadLight.hpp(18,11): warning C4244: 'initialisation' : conversion de 'glm::vec<3,float,glm::packed_highp>::length_type' en 'float', perte possible de données
+  Génération de code en cours...
+  RT_ISICG_etu.vcxproj -> C:\Users\ayoub\Desktop\ISNI\x64\Debug\RT_ISICG_etu.exe
+  0 fichier(s) copié(s)
+  0 fichier(s) copié(s)
