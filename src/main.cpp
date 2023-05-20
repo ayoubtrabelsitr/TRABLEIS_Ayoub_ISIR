@@ -77,7 +77,7 @@ namespace RT_ISICG
 		std::cout << "-> Done in " << renderingTime << "ms" << std::endl;
 
 		// Save rendered image.
-		const std::string imgName = "TP7(9).jpg";
+		const std::string imgName = "TP7(8).jpg";
 		img.saveJPG( RESULTS_PATH + imgName );
 
 		return EXIT_SUCCESS;
